@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "0116869f-a474-415c-973b-cbb1638d2e03",
+		"name": "micro-services-java",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "3166323",
+		"_collection_link": "https://cloudy-sunset-749468.postman.co/workspace/Sample~26080670-2abe-4eca-9e23-00315d8ecd90/collection/3166323-0116869f-a474-415c-973b-cbb1638d2e03?action=share&source=collection_link&creator=3166323"
+	},
+	"item": [
+		{
+			"name": "example",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
